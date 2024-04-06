@@ -32,7 +32,7 @@
 #   private_subnet_names  = ["Private Subnet One", "Private Subnet Two"]
 #   database_subnet_names = ["DB Subnet One"]
 
-#   create_database_subnet_group  = false
+#   create_database_subnet_group  = true
 #   manage_default_network_acl    = false
 #   manage_default_route_table    = false
 #   manage_default_security_group = false
